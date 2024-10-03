@@ -32,7 +32,10 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       [ExNo3FeatureEngineering.ipynb - Colab.pdf](https://github.com/user-attachments/files/17239739/ExNo3FeatureEngineering.ipynb.-.Colab.pdf)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
+       Feature Encoding and Transformation process is successfully done for the given Datasets.
 
        
